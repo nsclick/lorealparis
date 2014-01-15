@@ -1,0 +1,202 @@
+/**
+ * Loreal
+ *
+ * NSClick
+ */
+html {
+  font-size: 62.5%;
+}
+
+html, body, * {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  position: relative;
+  padding-bottom: 50px;
+}
+
+img {
+  width: 100%;
+}
+ 
+.container {
+  width: 100%;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+.row  {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.col1, .col2, .col3, .col4, .col5, .col6, .col7, .col8, .col9, .col10, .col11, .col12 {
+  display: inline-block;
+  box-sizing: border-box;
+}
+
+.col12 {
+  width: 100%;
+}
+
+.col10 {
+  width: 82%;
+}
+
+.col9 {
+  width: 70%;
+}
+
+.col6 {
+  width: 50%;
+}
+
+.col4 {
+  width: 30%;
+}
+
+.col3 {
+  width: 25%;
+}
+
+.col2 {
+  width: 16.7%;
+}
+
+.icon {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+}
+
+.icon.facebook {
+  background: url(../images/facebook.png) no-repeat 0 0;
+}
+
+a.facebook_btn {
+  display: inline-block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.align_center {
+  text-align: center;
+}
+
+.sans {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.dark_bg {
+  background-color: #231f20;
+  background-color: #1e130f;
+  color: #fff;
+}
+
+input {
+  border-radius: 0px;
+}
+
+
+/**
+ * HOME
+ */
+.home_text1 {
+  font-size: 40px;
+  font-size: 4rem;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.home_texts2 {
+  font-size: 20px;
+  font-size: 2rem;
+  margin-top: 40px;
+}
+ 
+/**
+ * FORMULARIO
+ */
+
+.data_text1 {
+  font-size: 30px;
+  font-size: 3rem;
+  margin-top: 40px;
+  margin-bottom: 80px;
+}
+
+.input_group {
+  margin-bottom: 30px;
+}
+
+.input_group label {
+  font-size: 24px;
+  font-size: 2.4rem;
+}
+
+.input_group input {
+  border: none;
+  height: 36px;
+  font-size: 20px;
+  font-size: 2rem;
+  padding-left: 10px;
+  padding-left: 1rem;
+}
+
+.input_group select {
+  width: 70%;
+  height: 36px;
+  border: none;
+  padding-left: 10px;
+  font-size: 20px;
+}
+
+.input_submit {
+  margin-top: 80px;
+  text-align: center;
+}
+
+.input_submit input {
+  background-color: #fff;
+  border: none;
+  width: 80%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 50px;
+}
+
+.form_footer {
+  position: absolute;
+  bottom: 0px;
+  height: 45px;
+  width: 100%;
+}
+ 
+/**
+ * FELICITACIONES
+ */
+a.back_btn {
+  display: inline-block;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 40px;
+}
+
+.congrats_1 {
+  margin-top: 40px;
+}
+
+.congrats_2 {
+  margin-top: 40px;
+}
+
+.congrats_3{
+  margin-top: 40px;
+}

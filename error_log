@@ -1,0 +1,6 @@
+[14-Jan-2014 15:43:58 America/Denver] PHP Fatal error:  Call to a member function view() on a non-object in /home/lorealpa/public_html/application/controllers/frontend.php on line 17
+[14-Jan-2014 15:44:26 America/Denver] PHP Fatal error:  Call to undefined function form_open() in /home/lorealpa/public_html/application/views/formulario.php on line 17
+[14-Jan-2014 16:00:01 America/Denver] PHP Fatal error:  Call to undefined function redirect() in /home/lorealpa/public_html/application/controllers/frontend.php on line 13
+[14-Jan-2014 16:25:47 America/Denver] PHP Fatal error:  Call to a member function insert() on a non-object in /home/lorealpa/public_html/application/controllers/frontend.php on line 36
+[14-Jan-2014 16:26:03 America/Denver] PHP Fatal error:  Call to a member function insert() on a non-object in /home/lorealpa/public_html/application/models/data_model.php on line 23
+[15-Jan-2014 07:41:30 America/Denver] PHP Fatal error:  Call to private method Backend::_output() from context 'CI_Output' in /home/lorealpa/public_html/system/core/Output.php on line 441
